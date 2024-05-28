@@ -1,2 +1,2 @@
 # ZaleznosciDanych
-Miary związku i analiza korespondencji
+Wykorzystanie miary związku i analizy korespondencji do analizy wzajemnej zależności danych
